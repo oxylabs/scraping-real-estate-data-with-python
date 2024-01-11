@@ -28,7 +28,47 @@ from bs4 import BeautifulSoup
 
 ## 2. Prepare the API request
 
+```python
 
+```
 
+## 3. Send request
 
+Here’s the full code for sending the request:
 
+```python
+
+```
+## 4. Extract HTML
+
+```python
+
+```
+
+## 5. Parse data from HTML
+
+Here’s the full code for extracting data from the HTML content:
+
+```python
+
+```
+
+## 6. Save to CSV
+
+```python
+
+```
+
+## The complete code
+
+```python
+
+```
+
+## Wrapping up
+
+Using Python along with [Real Estate Scraper API](https://oxylabs.io/products/scraper-api/real-estate) is a seamless way to automate real estate data collection processes required for insights into the real estate market. 
+
+Please refer to our technical documentation for more on the API parameters and variables found in this tutorial.
+
+If you have any questions, feel free to reach out by sending a message to support@oxylabs.io or live chat.
