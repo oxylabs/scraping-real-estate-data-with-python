@@ -162,6 +162,6 @@ df.to_csv("real_estate_data.csv")
 
 Using Python along with [Real Estate Scraper API](https://oxylabs.io/products/scraper-api/real-estate) is a seamless way to automate real estate data collection processes required for insights into the real estate market. 
 
-Please refer to our [technical documentation])https://developers.oxylabs.io/scraper-apis/real-estate-scraper-api/redfin) for more on the API parameters and variables found in this tutorial.
+Please refer to our [technical documentation](https://developers.oxylabs.io/scraper-apis/real-estate-scraper-api/redfin) for more on the API parameters and variables found in this tutorial.
 
 If you have any questions, feel free to reach out by sending a message to support@oxylabs.io or live chat.
