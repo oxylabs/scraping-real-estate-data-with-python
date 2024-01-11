@@ -164,4 +164,4 @@ Using Python along with [Real Estate Scraper API](https://oxylabs.io/products/sc
 
 Please refer to our [technical documentation](https://developers.oxylabs.io/scraper-apis/real-estate-scraper-api/redfin) for more on the API parameters and variables found in this tutorial.
 
-If you have any questions, feel free to reach out by sending a message to support@oxylabs.io or live chat.
+If you have any questions, feel free to reach out by sending a message to support@oxylabs.
