@@ -58,7 +58,9 @@ soup = BeautifulSoup(html, "html.parser")
 
 ## 5. Parse data from HTML
 
-(images/Redfin1.jpg)
+![Locating elements](images/Redfin1.jpg)
+
+![Locating elements](images/Redfin2.jpg)
 
 ```python
 def extract_data_from_listing(listing):
