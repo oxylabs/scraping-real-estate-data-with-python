@@ -58,6 +58,8 @@ soup = BeautifulSoup(html, "html.parser")
 
 ## 5. Parse data from HTML
 
+(images/Redfin1.jpg)
+
 ```python
 def extract_data_from_listing(listing):
     price = listing.find("span", {"class": "homecardV2Price"}).get_text(strip=True)
