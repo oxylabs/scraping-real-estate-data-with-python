@@ -93,6 +93,7 @@ for listing in soup.find_all("div", {"class": "bottomV2"}):
     entry = extract_data_from_listing(listing)
     data.append(entry)
 ```
+**Note:** you can also request Markdown output using `"markdown: true"` flag to get results in an easy-to-read format for various AI workflows.
 
 ## 6. Save to CSV
 
