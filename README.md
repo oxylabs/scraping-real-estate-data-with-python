@@ -1,6 +1,6 @@
 # Scraping Real Estate Data With Python
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=scraping-real-estate-data-with-python-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=scraping-real-estate-data-with-python&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -10,9 +10,9 @@
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
-Here's the process of collecting public property data from [Redfin](https://www.redfin.com/) with the help of Oxylabs [Web Scraper API](https://oxylabs.io/products/scraper-api/web) (**1-week free trial**) and Python. You can scrape real estate data like prices, sizes, number of beds and baths available, and addresses, increasing the likelihood of finding a good deal or understanding the market better. 
+Here's the process of collecting public property data from [Redfin](https://www.redfin.com/) with the help of Oxylabs [Web Scraper API](https://oxylabs.io/products/scraper-api/web?utm_source=github&utm_medium=referral&utm_content=scraping-real-estate-data-with-python&groupid=877) (**1-week free trial**) and Python. You can scrape real estate data like prices, sizes, number of beds and baths available, and addresses, increasing the likelihood of finding a good deal or understanding the market better. 
 
-For the full guide, check our [blog post](https://oxylabs.io/blog/scraping-real-estate-data).
+For the full guide, check our [blog post](https://oxylabs.io/blog/scraping-real-estate-data?utm_source=github&utm_medium=referral&utm_content=scraping-real-estate-data-with-python&groupid=877).
 
 ## 1. Prepare environment
 
@@ -169,7 +169,7 @@ df.to_csv("real_estate_data.csv")
 
 ## Wrapping up
 
-Using Python and [Web Scraper API](https://oxylabs.io/products/scraper-api/web) is a seamless way to automate real estate data collection processes required for insights into the real estate market. 
+Using Python and [Web Scraper API](https://oxylabs.io/products/scraper-api/web?utm_source=github&utm_medium=referral&utm_content=scraping-real-estate-data-with-python&groupid=877) is a seamless way to automate real estate data collection processes required for insights into the real estate market. 
 
 Please refer to our [technical documentation](https://developers.oxylabs.io/api-targets/real-estate) for more on the API parameters and variables found in this tutorial.
 
